@@ -1,0 +1,8 @@
+{
+  "name": "Ahmed Community Connect",
+  "description": "A comprehensive, elegant digital platform dedicated to community service, welfare initiatives, volunteer engagement and public support under the leadership of Ahmed.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
